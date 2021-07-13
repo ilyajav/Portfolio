@@ -1,0 +1,28 @@
+.footerBlock{
+    min-height: 28vh;
+    background-color: #5ad68b;
+}
+
+.footerContainer{
+    flex-direction: column;
+}
+
+.title{
+    margin-top: 20px;
+    background-color: #eeeef5;
+    font-size: 20px;
+}
+
+.items{
+    width: 100%;
+    margin-top: 40px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+.year{
+    margin-top: 70px;
+    background-color: gray;
+}

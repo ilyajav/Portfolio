@@ -1,0 +1,19 @@
+.worksBlock{
+    min-height: 80vh;
+    background-color: violet;
+}
+
+.worksContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title{
+    background-color: #eeeef5;
+}
+
+.works{
+    border: 1px solid black;
+}

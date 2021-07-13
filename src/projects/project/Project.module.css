@@ -1,0 +1,24 @@
+.itemWork{
+    width: 100%;
+    height: 200px;
+    background-color: #5353e9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    border: 1px solid black;
+}
+
+.description{
+    border: 1px solid black;
+}
+
+.link{
+    background-color: #d4ffc0;
+}
+
+.aboutProject{
+    background-color: #eeeef5;
+}
